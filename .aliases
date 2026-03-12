@@ -10,14 +10,7 @@ alias ~="cd ~"
 alias dl="cd /mnt/c/Users/felix/Downloads"
 alias dt="cd /mnt/c/Users/felix/Desktop"
 alias p="cd ~/projects"
-
-# git
-alias g='git'
-alias gs='git status'
-alias ga='git add'
-alias gc='git commit'
-alias gp='git push'
-alias gl='git log --oneline --graph --decorate'
+alias g="git"
 
 # safer file operations
 alias rm='rm -i'
