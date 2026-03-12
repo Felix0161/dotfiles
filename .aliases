@@ -4,6 +4,7 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias -- -="cd -"
+alias ~="cd ~"
 
 # shortcuts
 alias dl="cd /mnt/c/Users/felix/Downloads"
